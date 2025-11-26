@@ -1,6 +1,6 @@
 🌐 Portfolio WebsiteProject Overview.
  This is a professional, dynamic portfolio website built using the Django framework to manage content (projects, skills, services) via an admin interface and styled with a responsive Bootstrap template for a modern, clean look.It serves as a single source of truth for all professional work, allowing easy updates without touching the front-end code.
-[<img width="1268" height="615" alt="portfolio_thumbnail" src="https://github.com/user-attachments/assets/5e05fd2d-47b6-4b72-bc5c-935e48bbd72a" />](https://nailabashir.pythonanywhere.com/)
+[<img width="2561" height="1399" alt="portfolio" src="https://github.com/user-attachments/assets/d8f82171-091a-44e7-99ae-73abe9daad59" />](https://nailabashir.pythonanywhere.com/)
 
 # ✨ Features
 Dynamic Content Management: All portfolio items (projects, skills, services) are managed through the Django Admin Panel.
